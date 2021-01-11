@@ -1,0 +1,8 @@
+I took most things from here
+https://www.dsquintana.blog/create-an-academic-website-free-easy-2020/
+
+How to deploy it to Github
+type "hugo" in the terminal in VSStudio to create the public folder and push the changes to the git repo
+
+Documentation
+https://wowchemy.com/docs/content/page-features/
