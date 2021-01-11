@@ -9,9 +9,11 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
+active: true
+
 title: Projects
 subtitle: ''
-
+share: true
 content:
   # Page type to display. E.g. project.
   page_type: project
@@ -27,21 +29,23 @@ content:
   filter_button:
   - name: All
     tag: '*'
+  - name: Motion Planning
+    tag: Motion Planning
+  - name: Optimization
+    tag: Optimization
   - name: Deep Learning
     tag: Deep Learning
-  - name: Other
-    tag: Demo
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
+  columns: '1'
 
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
