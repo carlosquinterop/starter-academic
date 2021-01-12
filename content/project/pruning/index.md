@@ -23,7 +23,7 @@ links:
 #  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: "https://drive.google.com/file/d/1RmwX1IUxI8B7SSmNodxB_lMIcWbuwWau/view?usp=sharing"
+url_slides: "slides/Pruning.pdf"
 url_video: ""
 
 # Slides (optional).

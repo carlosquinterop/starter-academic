@@ -22,8 +22,8 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: "https://drive.google.com/file/d/1dxVhyJaLlkUFkFSHXZyqpVBGNnVrHVCy/view?usp=sharing"
-url_slides: "https://drive.google.com/file/d/1a3licn2ZrwtLK9TcRYV1JAR-V1XXnB2i/view?usp=sharing"
+url_pdf: "pdfs/MotionPlanningUnderSensingUncertainty.pdf"
+url_slides: "slides/Poster_FPF.pdf"
 url_video: ""
 
 # Slides (optional).

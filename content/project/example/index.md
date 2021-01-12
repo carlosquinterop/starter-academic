@@ -23,8 +23,8 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: "https://drive.google.com/file/d/1QIS99haBF0JLOu-rIxGCkioslqhZR6km/view?usp=sharing"
-url_slides: "https://drive.google.com/file/d/1Ia7rSTm-zU3xawPt09AGi7NptmyEmOaP/view?usp=sharing"
+url_pdf: "pdfs/Escaping_Saddle_Points.pdf"
+url_slides: "slides/EscapingSaddlePoints_CompleteFV.pdf"
 url_video: ""
 
 # Slides (optional).
