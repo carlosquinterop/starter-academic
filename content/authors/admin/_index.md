@@ -69,9 +69,9 @@ email: ""
 highlight_name: true
 ---
 
-I am a second-year PhD student in Computer Science at Rice University, working under the supervision of [Lydia Kavraki](https://www.cs.rice.edu/~kavraki/) and [Anastasios Kyrillidis](http://akyrillidis.github.io/about/). I am honored to have received a [Fulbright Scolarship](https://us.fulbrightonline.org/) in 2019 to start my doctoral studies.
+I am a second-year PhD student in Computer Science at Rice University, working under the supervision of [Lydia Kavraki](https://www.cs.rice.edu/~kavraki/) and [Anastasios Kyrillidis](http://akyrillidis.github.io/about/). I am honored to have received a [Fulbright Scholarship](https://us.fulbrightonline.org/) in 2019 to start my doctoral studies.
 
-I am interested in understanding how to plan safe motions for robots in unstructured environments. My goal is to provide robots with the capabilities of autonomously decide and act in environments that may have noisy or incomplete information. To this end, I have explored the use of optimization and data-driven models that enable the robots to perform complicated tasks safley and reliably.
+I am interested in understanding how to plan safe motions for robots in unstructured environments. My goal is to provide robots with the capabilities of autonomously deciding and acting in environments that may have noisy or incomplete information. To this end, I have explored the use of optimization and data-driven models that enable the robots to perform complicated tasks safely and reliably.
 
 Before joining Rice, I was an instructor and researcher at [Universidad de los Andes](https://uniandes.edu.co/en) and [Universidad Santo Tomás](https://www.usta.edu.co/#) where I thaught courses mainly in Electronic Engineering, Robotics and Machine Learning. During this time I had the chance to join the [RoboCup](https://www.robocup.org/) community by becoming part of the STOx's team of the [Small Size League](https://www.robocup.org/leagues/7) (2014-2017), serving as TC member in 2018 and by co-founding the [SinfonIA](https://www.facebook.com/SinfoniaUniandes/) team of the [@Home Social Standard Platform League](https://www.robocup.org/leagues/15) in 2019.
 
