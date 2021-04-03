@@ -77,4 +77,6 @@ The table below show the results of the 50 runs for each strategy. As expected, 
 
 {{< figure library="true" src="TableResults.png" title="Results of $50$ runs for the proposed methodology for completing the scene for the 4 different explored strategies" >}}
 	
-A video with several runs showing how the swept-out volume works can be found in https://youtu.be/mFQVL0uSuAE.
+In the following video you can see the robot doing the described task for different sets of random scenes. The robot creates a trajectory and then looks at all the important points in the trajectory that are in unknown space (red arrows) until all of them are blue.
+
+{{< youtube mFQVL0uSuAE >}}
