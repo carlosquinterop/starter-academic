@@ -69,7 +69,7 @@ email: "carlosq [at] rice [dot] edu"
 highlight_name: true
 ---
 
-I am a second-year PhD student in Computer Science at Rice University, working under the supervision of [Lydia Kavraki](https://www.cs.rice.edu/~kavraki/) and [Anastasios Kyrillidis](http://akyrillidis.github.io/about/). I am honored to have received a [Fulbright Scholarship](https://us.fulbrightonline.org/) in 2019 to start my doctoral studies.
+I am a PhD student in Computer Science at Rice University, working under the supervision of [Lydia Kavraki](https://www.cs.rice.edu/~kavraki/) and [Anastasios Kyrillidis](http://akyrillidis.github.io/about/). I am honored to have received a [Fulbright Scholarship](https://us.fulbrightonline.org/) in 2019 to start my doctoral studies.
 
 I am interested in understanding how to plan safe motions for robots in unstructured environments. My goal is to provide robots with the capabilities of autonomously deciding and acting in environments that may have noisy or incomplete information. To this end, I have explored the use of optimization and data-driven models that enable the robots to perform complicated tasks safely and reliably.
 

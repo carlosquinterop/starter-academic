@@ -40,6 +40,12 @@ design:
 ---
 
 # News
+- [**01/31/2022**] Our paper "Human-Guided Motion Planning in Partially Observable Environments" has been accepted at ICRA 2022!
+- [**11/18/2021**] Our paper [MotionBenchMaker: A Tool to Generate and Benchmark Motion Planning
+Datasets](http://www.kavrakilab.org/publications/chamzas2022-motion-bench-maker.pdf) has been accepted for publication in the IEEE Robotics and Automation Letters (RA-L) 
+- [**05/14/2021**] Our paper [Motion Planning via Bayesian Learning in the Dark](http://www.kavrakilab.org/publications/quintero-chamzas2021-motion-planning-in-the-dark.pdf) has been accepted for spotlight presentation at the Machine Learning for Motion Planning (MLMP) workshop as part of ICRA 2021
+- [**02/28/2021**] Our paper [Robust Optimization Motion Planning for high-DOF Robots under Sensing Uncertainty](http://www.kavrakilab.org/publications/quintero2021-robust-motion-planning.pdf) has been accepted at ICRA 2021!
+- [**02/28/2021**] Our paper [Learning Sampling Distributions Using Local 3D Workspace Decompositions for Motion Planning in High Dimensions](http://www.kavrakilab.org/publications/chamzas2021-learn-sampling.pdf) has been accepted at ICRA 2021!
 - [**12/10/2020**] I was invited to give a talk at [Seminario Internacional Sistemas Robóticos Autónomos y Aplicaciones](https://ingenieria.bogota.unal.edu.co/CIMM/?view=page&id=27)
 - [**12/09/2020**] I was invited to give a talk at [Uniandes](https://electricayelectronica.uniandes.edu.co/es/eventos/charla-motion-planning)
 - [**10/19/2020**] I gave my COMP600 presentation named "_Optimization, Robots and Uncertainty_"
