@@ -75,4 +75,4 @@ I am interested in understanding how to plan safe motions for robots in unstruct
 
 Before joining Rice, I was an instructor and researcher at [Universidad de los Andes](https://uniandes.edu.co/en) and [Universidad Santo Tomás](https://www.usta.edu.co/#) where I thaught courses mainly in Electronic Engineering, Robotics and Machine Learning. During this time I had the chance to join the [RoboCup](https://www.robocup.org/) community by becoming part of the STOx's team of the [Small Size League](https://www.robocup.org/leagues/7) (2014-2017), serving as TC member in 2018 and by co-founding the [SinfonIA](https://www.facebook.com/SinfoniaUniandes/) team of the [@Home Social Standard Platform League](https://www.robocup.org/leagues/15) in 2019.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV-Carlos.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV-Carlos-02-2022.pdf" "newtab" >}}resumé{{< /staticref >}}.
