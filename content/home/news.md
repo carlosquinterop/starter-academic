@@ -40,6 +40,7 @@ design:
 ---
 
 # News
+- [**03/01/2023**] Our paper Optimal Grasps and Placements for Task and Motion Planning in Clutter has been accepted at ICRA 2023!
 - [**12/05/2022**] [CS Rice](https://csweb.rice.edu/) wrote the note [Robotics researchers develop open-source motion planning benchmarking tool](https://csweb.rice.edu/news/robotics-researchers-develop-open-source-motion-planning-benchmarking-tool) about our work with my collegue Constantinos Chamzas on Benchmarking Motion Planning Algorithms
 - [**10/31/2022**] I gave my second COMP600 talk named "_Human-Guided Motion Planning in Partially Observable Environments_"
 - [**10/23/2022**] Check out our workshop on [Evaluating Motion Planning Performance: Metrics, Tools, Datasets, and Experimental Design](https://motion-planning-workshop.kavrakilab.org/) happening at IEEE/RSJ IROS 2022, Kyoto, Japan
