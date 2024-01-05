@@ -5,7 +5,7 @@ tags:
 - Optimization
 - Motion Planning
 - Robotics
-date: "2021-01-11T00:00:00Z"
+date: "2021-04-01T00:00:00Z"
 authors:
 - admin
 
@@ -22,7 +22,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: ""
+url_pdf: "https://www.kavrakilab.org/publications/quintero2021-robust-motion-planning.pdf"
 url_slides: ""
 url_video: ""
 

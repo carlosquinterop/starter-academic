@@ -4,8 +4,8 @@ summary: Review of methods to prune neural networks
 tags:
 - Neural Networks
 - Pruning
-- Deep Learning
-date: "2021-01-11T00:00:00Z"
+- Learning
+date: "2019-12-01T00:00:00Z"
 authors:
 - admin
 

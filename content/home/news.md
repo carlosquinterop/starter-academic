@@ -40,10 +40,15 @@ design:
 ---
 
 # News
-- [**10/17/2023**] Thrilled to be attending the 6th IEEE Colombian Conference on Automatic Control (CCAC) in Popayan, Colombia. Thanks to the organizers for the invitation to give a workshop on Robot Motion Planning for High-DoF robots using Trajectory Optimization.
+- [**11/06/2023**] I am very excited to had been part of the series of special reports on advances in artificial intelligence prepared by Telemundo Houston for the hispanic audience in the United States. The series was broadcast in parts in Houston and rebroadcast nationally. The series parts can be found here:
+  - [Ameca: el robot humanoide habla por primera vez en español](https://www.telemundohouston.com/noticias/local/ameca-el-robot-humanoide-habla-por-primera-vez-en-espanol/2367157/)
+  - [La llegada de los autos sin conductor: ¿son seguros?](https://www.telemundohouston.com/noticias/la-llegada-de-los-autos-sin-conductor-son-seguros/2367690/)
+  - [La era de la Inteligencia Artificial: ¿Tenemos cabida en ella?](https://www.telemundohouston.com/videos/videos-destacados/la-era-de-la-inteligencia-artificial-tenemos-cabida-en-ella/2367745/)
+  - [Inteligencia artificial, la manera como está cambiando la forma de estudiar](https://www.telemundohouston.com/videos/videos-destacados/inteligencia-artificial-la-manera-como-esta-cambiando-la-forma-de-estudiar/2367636/)
+- [**10/17/2023**] Thrilled to be attending the 6th IEEE Colombian Conference on Automatic Control (CCAC) in Popayan, Colombia. Thanks to the organizers for inviting me to give a workshop on Robot Motion Planning for High-DoF robots using Trajectory Optimization.
 - [**09/28/2023**] Check out our latest pre-print on [Stochastic Neural Implicit Representation for Safe Motion Planning](https://arxiv.org/pdf/2309.16862.pdf).
 - [**06/09/2023**] Together with colleagues from [Uniandes](https://uniandes.edu.co), I co-taught the summer course "Robot Learning", where students had the chance to learn about robot perception, kinematics and motion planning. Check out the [note](https://fb.watch/oUM1k4M_M2/) (in spanish) about my involvement in this course.
-- [**05/29/2023**] Excited to be in London for ICRA 2023. I will be talking about our (paper)[https://www.kavrakilab.org/publications/quintero2023-optimal-tmp.pdf] on how to improve TAMP planners using specialized convex optimization-based grounders in the presence of clutter and complex geometric constraints. 
+- [**05/29/2023**] Excited to be in London for ICRA 2023. I will be talking about our [paper](https://www.kavrakilab.org/publications/quintero2023-optimal-tmp.pdf) on how to improve TAMP planners using specialized convex optimization-based grounders in the presence of clutter and complex geometric constraints. 
 - [**03/01/2023**] Our paper Optimal Grasps and Placements for Task and Motion Planning in Clutter has been accepted at ICRA 2023!
 - [**12/05/2022**] [CS Rice](https://csweb.rice.edu/) wrote the note [Robotics researchers develop open-source motion planning benchmarking tool](https://csweb.rice.edu/news/robotics-researchers-develop-open-source-motion-planning-benchmarking-tool) about our work with my collegue Constantinos Chamzas on Benchmarking Motion Planning Algorithms
 - [**10/31/2022**] I gave my second COMP600 talk named "_Human-Guided Motion Planning in Partially Observable Environments_"

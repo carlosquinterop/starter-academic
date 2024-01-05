@@ -1,11 +1,11 @@
 ---
-title: Optimal Grasps and Placements for Task and Motion Planning in Clutter,
+title: Optimal Grasps and Placements for Task and Motion Planning in Clutter
 summary: Task and Motion Planning framework that combines a SMT-based task planner, sampling-based motion planners and a novel optimization-based grounder to find optimal object placement locations and robot grasps for cluttered environments.
 tags:
 - Optimization
 - Motion Planning
 - Robotics
-date: "2023-01-11T00:00:00Z"
+date: "2023-04-01T00:00:00Z"
 authors:
 - admin
 
@@ -22,7 +22,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: ""
+url_pdf: "https://www.kavrakilab.org/publications/quintero2023-optimal-tmp.pdf"
 url_slides: ""
 url_video: ""
 

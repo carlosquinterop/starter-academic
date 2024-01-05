@@ -5,9 +5,8 @@ tags:
 - Optimization
 - Motion Planning
 - Robotics
-- Reward Learning
-- Sensing Uncertainty
-date: "2022-01-11T00:00:00Z"
+- Learning
+date: "2021-09-01T00:00:00Z"
 authors:
 - admin
 
@@ -24,7 +23,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: ""
+url_pdf: "https://www.kavrakilab.org/publications/quintero-chamzas2022-blind.pdf"
 url_slides: ""
 url_video: ""
 
