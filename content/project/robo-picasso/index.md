@@ -3,7 +3,7 @@ title: Inverse Kinematics Robo Picasso
 summary: Solving the inverse kinematics problem for a FANUC S-500 robot and using it to draw a Mickey Mouse
 tags:
 - Robotics
-date: "2021-01-11T00:00:00Z"
+date: "2020-03-01T00:00:00Z"
 authors:
 - admin
 

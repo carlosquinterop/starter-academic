@@ -33,8 +33,8 @@ content:
     tag: Motion Planning
   - name: Optimization
     tag: Optimization
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Learning
+    tag: Learning
   - name: Robotics
     tag: Robotics
 

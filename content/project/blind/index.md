@@ -25,7 +25,7 @@ links:
 url_code: ""
 url_pdf: "https://www.kavrakilab.org/publications/quintero-chamzas2022-blind.pdf"
 url_slides: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=RbDDiApQhNo"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
