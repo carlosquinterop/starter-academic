@@ -61,7 +61,7 @@ Datasets](http://www.kavrakilab.org/publications/chamzas2022-motion-bench-maker.
 - [**05/14/2021**] Our paper [Motion Planning via Bayesian Learning in the Dark](http://www.kavrakilab.org/publications/quintero-chamzas2021-motion-planning-in-the-dark.pdf) has been accepted for spotlight presentation at the [Machine Learning for Motion Planning (MLMP) workshop](https://sites.google.com/utexas.edu/mlmp-icra2021) as part of ICRA 2021
 - [**02/28/2021**] Our paper [Robust Optimization Motion Planning for high-DOF Robots under Sensing Uncertainty](http://www.kavrakilab.org/publications/quintero2021-robust-motion-planning.pdf) has been accepted at ICRA 2021!
 - [**02/28/2021**] Our paper [Learning Sampling Distributions Using Local 3D Workspace Decompositions for Motion Planning in High Dimensions](http://www.kavrakilab.org/publications/chamzas2021-learn-sampling.pdf) has been accepted at ICRA 2021!
-- [**12/10/2020**] I was invited to give a talk at [Seminario Internacional Sistemas Robóticos Autónomos y Aplicaciones](https://ingenieria.bogota.unal.edu.co/CIMM/?view=page&id=27)
+- [**12/10/2020**] I was invited to give a talk at [Seminario Internacional Sistemas Robóticos Autónomos y Aplicaciones](https://peewah.co/events/seminario-internacion-nomos-y-aplicaciones)
 - [**12/09/2020**] I was invited to give a talk at [Uniandes](https://electricayelectronica.uniandes.edu.co/es/eventos/charla-motion-planning)
 - [**10/19/2020**] I gave my COMP600 presentation named "_Optimization, Robots and Uncertainty_"
 - [**09/01/2020**] I was selected to TA COMP450 - Algorithmic Robotics - for the Fall 2020
