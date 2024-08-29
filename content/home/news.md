@@ -40,6 +40,12 @@ design:
 ---
 
 # News
+[**08/05/2024**] I have successfully defended my PhD thesis **Towards Robust Planning for High-DoF Robots in Human Environments: The Role of Optimization**
+
+[**07/16/2024**] Our extended abstract **Perception-aware Planning for Robotics: Challenges and Opportunities** has been accepted to be presented at ICRA@40 in Rotterdam, Netherlands!
+
+[**05/01/2024**] Our paper **Monitoring Constraints for Robotic Tutors in Nurse Education: A Motion Planning Perspective** has been accepted for poster presentation at the WOrkshop on Nursing Robotics at ICRA 2024!
+
 [**01/29/2024**] Our paper [Stochastic Neural Implicit Representation for Safe Motion Planning](https://arxiv.org/pdf/2309.16862.pdf) was accepted at ICRA 2024 in Japan!
 
 [**11/06/2023**] I am very excited to had been part of the series of special reports on advances in artificial intelligence prepared by Telemundo Houston for the hispanic audience in the United States. The series was broadcast in parts in Houston and rebroadcast nationally. The series parts can be found here:

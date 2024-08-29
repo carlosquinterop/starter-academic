@@ -69,7 +69,7 @@ email: "carlosq [at] rice [dot] edu"
 highlight_name: true
 ---
 
-I am a PhD candidate in Computer Science at Rice University, working under the supervision of [Lydia Kavraki](https://www.cs.rice.edu/~kavraki/) and [Anastasios Kyrillidis](http://akyrillidis.github.io/about/). I am honored to have received a [Fulbright Scholarship](https://us.fulbrightonline.org/) in 2019 to start my doctoral studies.
+I have a PhD in Computer Science from Rice University. My thesis work, supervised by [Lydia Kavraki](https://www.cs.rice.edu/~kavraki/) and [Anastasios Kyrillidis](http://akyrillidis.github.io/about/), revolved around motion planning algorithms for high-DOF robots under realistic environments. For my doctoral studies, I received a [Fulbright Scholarship](https://us.fulbrightonline.org/) in 2019.
 
 I am interested in understanding how to plan safe motions for robots in unstructured environments. My goal is to provide robots with the capabilities of autonomously deciding and acting in environments that may have noisy or incomplete information or where humans may be present. To this end, I have explored the use of optimization and learning-based methods into robot motion planning to enable safe and efficient robot motion.
 
