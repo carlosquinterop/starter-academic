@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: Rice University
-    year: 2024 (expected)
+    year: 2024
   - course: MSc in Computer and Electronic Engineering
     institution: Universidad de los Andes
     year: 2011
